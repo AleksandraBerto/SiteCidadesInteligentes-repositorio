@@ -10,7 +10,7 @@ Cada cidade possui uma página própria com:
 - 🏙️ Pontos turísticos principais  
 
 ## 🚀 Acesse o site aqui
-https://aleksandraberto.github.io/primeiro-repossitorio/
+https://aleksandraberto.github.io/SiteCidadesInteligentes-repositorio/
 
 ## 📂 Estrutura do projeto
 /projeto-cidades-inteligentes
